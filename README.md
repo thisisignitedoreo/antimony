@@ -2,6 +2,7 @@
 ![logo](assets/logo.png)
 # antimony
 script to track and statisticly organize game playtime
+
 _continuation of [one of my gists](https://gist.github.com/thisisignitedoreo/3212cd92016ba03fca86412bb134734e)_
 
 ## quickstart
